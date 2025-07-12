@@ -13,13 +13,13 @@ Para saber mais sobre como conectar um dispositivo para uso no adb, incluindo co
 # Como usar o h-yper?
 Para usar o h-yper, primeiro você precisa das dependências que ele requer, para instalar, rode os comandos:
 # No Arch Linux (pacman)
-chmod +x d-pacman.sh
+chmod +x d-pacman.sh  
 ./d-pacman.sh
 # No Ubuntu, Debian.. etc. (apt)
-chmod +x d-apt.sh
-./d-apt.sh
-*Logo após isso, execute o h-yper:*
-bash hyper.sh
+chmod +x d-apt.sh  
+./d-apt.sh  
+*Logo após isso, execute o h-yper:*  
+bash hyper.sh  
 
 
 
