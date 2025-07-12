@@ -18,7 +18,7 @@ chmod +x d-pacman.sh
 # No Ubuntu, Debian.. etc. (apt)
 chmod +x d-apt.sh  
 ./d-apt.sh  
-*Logo após isso, execute o h-yper:*  
+# Logo após isso, execute o h-yper:  
 bash hyper.sh  
 
 
